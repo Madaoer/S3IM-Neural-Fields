@@ -1,4 +1,4 @@
 # S3IM_Pytorch
-[ICCV 2023] Pytorch implementation of "S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields"
+[ICCV 2023] The Pytorch implementation of our paper "S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields".
 
-**Code will be released soon**
+**Code will be released soon.**
