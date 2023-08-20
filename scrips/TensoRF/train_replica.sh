@@ -1,0 +1,1 @@
+python models/TensoRF/train.py --config models/TensoRF/configs/replica_exp/replica_scan1_s3im_1.0.txt

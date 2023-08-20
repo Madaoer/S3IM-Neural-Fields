@@ -1,0 +1,1 @@
+python models/DVGO/run.py --config models/DVGO/configs/replica_exp/replica_scan1_s3im_1.0.py --render_only --render_video
