@@ -13,28 +13,27 @@ The implementation of S3IM is quite simple. In this repo, we give a usage exampl
 
 ## TensoRF RGB results w/o and with S3IM (refer to paper table 2) 
 
-https://github.com/Madaoer/S3IM/assets/111342277/a692be67-74dc-4db9-8b48-d99ee4086eab
+https://github.com/Madaoer/S3IM-Neural-Fields/assets/111342277/54d7bc4f-a03f-4087-972b-a9e82f01a258
 <div align="center">Left: Standard Training (baseline);Right: Multiplex Training via S3IM (ours).</div>
 
 ## TensoRF Depth results w/o and with S3IM (refer to paper table 2) 
 
-https://github.com/Madaoer/S3IM/assets/111342277/63afc107-8524-4c18-82fa-01a7313347d6
+https://github.com/Madaoer/S3IM-Neural-Fields/assets/111342277/efd22307-aebe-496b-8085-a7e06353d3a8
 <div align="center">Left: Standard Training (baseline);Right: Multiplex Training via S3IM (ours).</div>
 
 
 ## DVGO RGB results w/o and with S3IM (refer to paper figure 2)
 
-https://github.com/Madaoer/S3IM/assets/111342277/c11b46c1-514e-4fbf-a8dc-e7d43760549a
+https://github.com/Madaoer/S3IM-Neural-Fields/assets/111342277/02634f9c-ad8d-41c0-a21c-601cf7bfc970
 <div align="center">Left: Standard Training (baseline);Right: Multiplex Training via S3IM (ours).</div>
 
 
 ## DVGO Depth results w/o and with S3IM (refer to paper figure 2)
 
-https://github.com/Madaoer/S3IM/assets/111342277/9df92cc6-d455-45c2-8445-7d453a7bdfe5
+https://github.com/Madaoer/S3IM-Neural-Fields/assets/111342277/200042dd-81e0-4af9-9914-22aee4a9f4b5
 <div align="center">Left: Standard Training (baseline);Right: Multiplex Training via S3IM (ours).</div>
 
 
-<!-- https://user-images.githubusercontent.com/16453770/158920837-3fafaa17-6ed9-4414-a0b1-a80dc9e10301.mp4 -->
 ## Installation
 
 #### Tested on Ubuntu 20.04 + Pytorch 1.10.0 + cu113
