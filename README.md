@@ -5,7 +5,7 @@ This repository contains the official pytorch implementation of our paper: [S3IM
 
 Our work design a nonlocal multiplex training paradigm for NeRF and relevant neural field methods via a novel Stochastic Structural SIMilarity (S3IM) loss that processes multiple data points as a whole set instead of process multiple inputs independently. Our extensive experiments demonstrate the unreasonable effectiveness of S3IM in improving NeRF and neural surface representation for nearly free. 
 
-The implementation of S3IM is quite simple. In this repo, we give a usage example of S3IM and present some video demos.
+The implementation of S3IM is quite simple. In this repo, we provide usage examples of S3IM and present some video demos.
 
 
 # Video Demo
@@ -111,10 +111,10 @@ Here we report our results in Replica Dataset using TensoRF. Please refer to our
 ## Citation
 If you find our code or paper helps, please consider citing:
 ```
-@article{s3imxie2023,
+@nproceedings{s3imxie2023,
   title = {S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields},
   author = {Zeke Xie, Xindi Yang, Yujie Yang, Qi Sun, Yixiang Jiang, Haoran Wang, Yunfeng Cai, and Mingming Sun},
-  booktitle = {International Conference on Computer Vision (ICCV)},
+  booktitle = {International Conference on Computer Vision},
   year = {2023}
 }
 ```
