@@ -115,7 +115,7 @@ Here we report our results in Replica Dataset using TensoRF. Please refer to our
 ## Citation
 If you find our code or paper helps, please consider citing:
 ```
-@inproceedings{s3imxie2023,
+@inproceedings{xie2023s3im,
   title = {S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields},
   author = {Zeke Xie, Xindi Yang, Yujie Yang, Qi Sun, Yixiang Jiang, Haoran Wang, Yunfeng Cai, and Mingming Sun},
   booktitle = {International Conference on Computer Vision},
