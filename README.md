@@ -117,7 +117,7 @@ If you find our code or paper helps, please consider citing:
 ```
 @inproceedings{xie2023s3im,
   title = {S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields},
-  author = {Zeke Xie, Xindi Yang, Yujie Yang, Qi Sun, Yixiang Jiang, Haoran Wang, Yunfeng Cai, and Mingming Sun},
+  author = {Xie, Zeke and Yang, Xindi and Yang, Yujie and Sun, Qi and Jiang, Yixiang and Wang, Haoran and Cai, Yunfeng and Sun, Mingming},
   booktitle = {International Conference on Computer Vision},
   year = {2023}
 }
